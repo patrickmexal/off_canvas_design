@@ -1,3 +1,5 @@
+
+
 /* The side navigation menu */
 .sidenav {
     height: 100%; /* 100% Full-height */
@@ -48,6 +50,12 @@
     .sidenav a {font-size: 18px;}
 }
 
-.fas fa-bars {
-    font-size: 60px;
+/*.fas fa-bars {
+    font-size: 90px;
+    padding-left: 20px;
+}*/
+
+#hamburgerOne {
+    margin-left: 20px;
+    margin-top: 20px;
 }

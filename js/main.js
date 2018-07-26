@@ -9,3 +9,13 @@ function closeNav() {
     $('#mySidenav').css('width', '0');
     $('#main').css('margin-left', '0');
 }
+
+function topDownNav() {
+	$('#myTopNav').css('height', '250px');
+	$('#main').css('margin-top', '250px');
+}
+
+function closeTopDownNav() {
+	$('#myTopNav').css('height', '0');
+	$('#main').css('margin-top', '0');
+}
